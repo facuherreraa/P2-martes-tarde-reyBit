@@ -65,3 +65,21 @@ Actualmente me encuentro trabajando en la rama de entretenimiento bplay, de Grup
 * CRM management
 
 <br clear="left"/>
+
+# Hola, soy Enzo 👋
+
+<img align="left" width="160" height="160" src="![1746648015575](https://github.com/user-attachments/assets/a5eeed82-c69d-4c77-8303-44a584656bc2)
+" style="border-radius: 50%; margin-right: 20px; margin-bottom: 20px;" />
+
+Tengo 23 años, soy de Argentina y actualmente estudio **Ingeniería Informática**. Mi enfoque profesional está centrado en el desarrollo **Backend**, con el objetivo de diseñar sistemas que prioricen la escalabilidad y el rendimiento.
+
+💻 **Qué estoy haciendo ahora:**
+Me encuentro perfeccionando mis habilidades en la creación de arquitecturas sólidas y eficientes. Mi meta es aplicar estos conocimientos en el desarrollo de productos digitales de alto impacto, garantizando siempre la integridad y fluidez de los datos.
+
+🛠️ **Stack y conocimientos:**
+* **Lenguajes:** JavaScript / Node.js
+* **Base de datos:** MySQL
+* **Frontend:** React.js
+* **Arquitectura:** Diseño de lógica de servidor y optimización de procesos
+
+<br clear="left"/>
