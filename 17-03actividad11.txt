@@ -1,0 +1,33 @@
+Elegimos cola que dice que el primero que entra es el primero que sale.
+Implementador define los métodos como funcionan.
+	InicializarCola. se inicializa la cola 
+	Acolar. se agrega el dato a la cola 
+	Desacolar. sale el primer dato ingresado a la cola fifo 
+	Primero. muestra el proximo dato a salir 
+	ColaVacia. devuelve t o f si la cola esta vacia  
+
+usuario debe inicizalizarcola para prender el programa, luego ingresa datos recordando que el primero en salir siempre serael primero en ingresar, tiene la opción de ver si la cola esta vacia o no con colavacia y puede ver el proximo datos q saldrá con primero.
+
+Usuario: InicializarCola.
+
+Implementador: Listo.
+
+Usuario: Acolar (10), Acolar (20), Acolar (30).
+
+Implementador: Guardados 10,20,30.
+
+Usuario: Desacolar. ¿Qué me das?
+
+Implementador: Toma el 10. 20,30.
+
+Usuario: Primero. ¿Quién es el que sigue en la fila?
+
+Implementador: Sigue el 20. 20,30.
+
+Usuario: Perfecto. Desacolar y otra vez Desacolar.
+
+Implementador: Toma el 20 y por último el 30.
+
+Usuario: ColaVacia Quedó algo adentro?
+
+Implementador: Verdadero La cola está completamente vacía.
