@@ -15,3 +15,30 @@ Desarrollando un proyecto como freelance ,**futbol5**, un sistema integral con T
 * Base de datos
 
 <br clear="left"/>
+
+
+
+
+
+Hola, soy Máximo. 
+
+Foto
+
+Tengo 21 años, soy de Argentina y estudiante de “Licenciatura en Gestión de Tecnología de la Información” con un fuerte interés en la ciberseguridad. Actualmente estoy cursando mi segundo año de carrera. 
+
+🛡️ Áreas de Interés
+Cybersecurity: Pentesting, Análisis de Vulnerabilidades. 
+Gestión IT: Optimización de procesos y seguridad en infraestructuras.
+Quality Assurance: Manual Testing, Reporte de Bugs y Fundamentos de Automatización.
+
+🚀 Formación y Experiencia
+🎓 Estudiante: Licenciatura en Gestión de Tecnología de la Información (UADE).
+💼 Ex-Administrativo: GCI Argentina (Sector Financiero).
+🛠️ Aprendizaje actual: Java.
+
+🛠️ Herramientas y Tecnologías
+Linux.
+Python.
+HTML y Css.
+Selenium.
+Jira.
