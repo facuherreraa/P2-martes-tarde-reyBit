@@ -37,8 +37,31 @@ Quality Assurance: Manual Testing, Reporte de Bugs y Fundamentos de Automatizaci
 🛠️ Aprendizaje actual: Java.
 
 🛠️ **Herramientas y Tecnologías**
-*Linux.
-*Python.
-*HTML y Css.
-*Selenium.
-*Jira.
+* Linux.
+* Python.
+* HTML y Css.
+* Selenium.
+* Jira.
+
+
+
+
+
+
+  # Hola, soy Teo 👋
+
+<img align="left" width="160" height="200" src="!https://github.com/user-attachments/assets/11851cd5-7ae0-4fd4-84e9-901d84c988ed" style="border-radius: 50%; margin-right: 20px; margin-bottom: 20px;" />
+
+Tengo 27 años, soy de Argentina, actualmente estoy cursando la Tecnicatura en Desarrollo de Software, con el plan de seguir la Licenciatura en Sistemas.
+
+💻 **Qué estoy haciendo ahora:**
+Actualmente me encuentro trabajando en la rama de entretenimiento bplay, de Grupo Boldt S.A, como Contact Center Representative. No obstante, mi meta profesional es meterme de lleno en la industria Fintech o bancaria. Para eso, tengo una base de JavaScript y Python, y actualmente estoy aprendiendo Java.
+
+🛠️ **Stack y conocimientos:**
+* JavaScript / Python
+* HTML5 / CSS / SASS
+* SQL 
+* Jira
+* CRM management
+
+<br clear="left"/>
