@@ -83,3 +83,19 @@ Me encuentro perfeccionando mis habilidades en la creación de arquitecturas só
 * **Arquitectura:** Diseño de lógica de servidor y optimización de procesos
 
 <br clear="left"/>
+
+# Hola, soy Juan 👋
+
+Tengo 21 años, soy argentino y en este momento estoy cursando la tecnicatura de Desarrollo de software.
+
+💻 **Qué estoy haciendo ahora:**
+Actualmente me encuentro unicamente estudiando y prefeccionando mis habilidades en el ámbito, cursando materias de la carrera y haciendo cursos en paralelo por Coderhouse y Udemi. Actualmente tengo más experiencia en el desarrollo de Frontend. pero me gustaría adentrarme en el Backend para tener conocimientos de ambos extremos.
+
+🛠️ **Stack y conocimientos:**
+* JavaScript / Python
+* HTML5, CSS, ReactJS
+* Jira
+
+<br clear="left"/>
+
+ 
