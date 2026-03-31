@@ -86,6 +86,8 @@ Me encuentro perfeccionando mis habilidades en la creación de arquitecturas só
 
 # Hola, soy Juan 👋
 
+<img align="left" width="160" height="200" src="https://avatars.githubusercontent.com/u/133821244?v=4" style="border-radius: 50%; margin-right: 20px; margin-bottom: 20px;" />
+
 Tengo 21 años, soy argentino y en este momento estoy cursando la tecnicatura de Desarrollo de software.
 
 💻 **Qué estoy haciendo ahora:**
